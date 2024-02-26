@@ -1,1 +1,2 @@
 # SetUpRepoAssignment
+## updated read me 
